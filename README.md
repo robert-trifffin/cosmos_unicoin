@@ -1,5 +1,6 @@
 # cosmos_unicoin
 
+go version = 1.15 ( ^1.16 is not supported)
 
 ### Install
 
